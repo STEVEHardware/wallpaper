@@ -1,0 +1,22 @@
+{
+	"contentrating" : "Everyone",
+	"file" : "CYBERPUNK.mp4",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Game" ],
+	"title" : "CYBERPUNK 2077",
+	"type" : "video",
+	"visibility" : "public"
+}
